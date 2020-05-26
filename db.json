@@ -1,56 +1,11 @@
 {
-  "news": [
+  "posts": [
     {
-      "companyName": "Test1",
-      "companyDescription": "The post office can let you know when your stimulus check is about to arrive in the mail. Here's how to set up the free USPS to see when your IRS check is coming.",
-    },
-    {
-      "companyName": "Test2",
-      "companyDescription": "I wanted folks to know what happened to make sure it never happens again from her. All she had to do was put her poor dog on the leash.",
-    },
-    {
-      "companyName": "Test3",
-      "companyDescription": "A woman is facing backlash over a viral video that appears to show her calling the cops on a black man who asked her to leash her dog. She has since been placed on administrative leave by her employe…",
-    },
-    {
-      "companyName": "Test4",
-      "companyDescription": "The resumption of floor trading comes after a two-month closure due to the coronavirus pandemic.",
-    },
-    {
-      "companyName": "Test5",
-      "companyDescription": "Asian stocks rose on Tuesday, as a growing number of cities and countries around the world take steps toward re-opening.",
-    },
-    {
-      "companyName": "Test6",
-      "companyDescription": "Syria’s Assad is confronting the toughest challenges of the 9-year war - The Washington Post",
-    },
-    {
-      "companyName": "Test7",
-      "companyDescription": "A feud within Assad’s family, a collapsing economy and strains with Russia expose his regime’s fragility.",
-    },
-    {
-      "companyName": "Test8",
-      "companyDescription": "But cracks are starting to appear in the once-united front presented by loyalists who stood by Assad throughout his battle to crush the opposition. A rare eruption of criticism in Russian media outle…",
-    },
-    {
-      "companyName": "Test9",
-      "companyDescription": "Atlas VPN said installations of the tool that helps people bypass web restrictions surged again on Friday, up more than three-fold from the previous day, while search interest in the keyword term ",
-    },
-    {
-      "companyName": "Test10",
-      "companyDescription": "Demand for virtual private networks in Hong Kong surged more than six-fold last Thursday as Beijing proposed tough new national security laws for the financial hub, reflecting concerns over internet …",
-    },
-    {
-      "companyName": "Test11",
-      "companyDescription": "Warning comes as Europe and United States ease lockdowns and people flock to crowded beaches at start of summer season.",
-    },
-    {
-      "companyName": "Test12",
-      "companyDescription": "Hello and welcome to Al Jazeera's continuing coverage of the coronavirus pandemic. I'm Kate Mayberry in Kuala Lumpur.",
-    },
-    {
-      "companyName": "Test13",
-      "companyDescription": "Basketball legend Patrick Ewing has been released from the hospital and is resting at home after having tested positive for the coronavirus, his family said Monday.",
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
