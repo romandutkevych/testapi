@@ -1,7 +1,5 @@
 {
-  "posts": [
-    {
-  "companies": [
+  "news": [
     {
       "companyName": "Test1",
       "companyDescription": "The post office can let you know when your stimulus check is about to arrive in the mail. Here's how to set up the free USPS to see when your IRS check is coming.",
@@ -54,9 +52,6 @@
       "companyName": "Test13",
       "companyDescription": "Basketball legend Patrick Ewing has been released from the hospital and is resting at home after having tested positive for the coronavirus, his family said Monday.",
     }
-  ]
-}
-
   ],
   "profile": {
     "name": "typicode"
